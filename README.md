@@ -1,4 +1,3 @@
-
 # Renan Arques
 
 Dev Mobile & Co-Founder @Cyberswitch
@@ -6,7 +5,7 @@ Dev Mobile & Co-Founder @Cyberswitch
 [![Linkedin Badge](https://img.shields.io/badge/-Renan%20Arques-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renan-arques/)](https://www.linkedin.com/in/renan-arques/)
 [![Gmail Badge](https://img.shields.io/badge/-renan.arques@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renan.arques@gmail.com)](mailto:renan.arques@gmail.com)
 
-[//]: # "![Views Counter](https://komarev.com/ghpvc/?username=RenanArques&color=5A45E1&style=for-the-badge)"
+[//]: # "![Views Counter](https://komarev.com/ghpvc/?username=RenanArques&color=000000&style=flat-square)"
 
 👋 Olá! Sou desenvolvedor mobile com 2+ anos de experiência trabalhando com React Native, sempre buscando desenvolver experiencias móveis impactantes para o usuário final.
 
@@ -20,7 +19,7 @@ Dev Mobile & Co-Founder @Cyberswitch
 [![SQLite](https://img.shields.io/badge/-SQLite-9946F4?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 [![Git](https://img.shields.io/badge/-Git-9946F4?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
 
-#### Ferramentas que uso com alguma frequência:
+#### Outras ferramentas que uso com alguma frequência:
 
 [![Next.js](https://img.shields.io/badge/-Next.js-793EE9?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-793EE9?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
