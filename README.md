@@ -1,6 +1,6 @@
 # Renan Arques
 
-Dev Mobile & Co-Founder @Cyberswitch
+Dev Mobile
 
 [![Linkedin Badge](https://img.shields.io/badge/-Renan%20Arques-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/renan-arques/)](https://www.linkedin.com/in/renan-arques/)
 [![Gmail Badge](https://img.shields.io/badge/-renan.arques@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renan.arques@gmail.com)](mailto:renan.arques@gmail.com)
