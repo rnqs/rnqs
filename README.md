@@ -19,7 +19,7 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-793EE9?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Prisma](https://img.shields.io/badge/-Prisma-793EE9?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-793EE9?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-793EE9?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-793EE9?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-793EE9?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 
 #### I'm curious about:
@@ -27,5 +27,6 @@
 [![tRPC](https://img.shields.io/badge/-tRPC-5935DE?style=for-the-badge&logo=tRPC&logoColor=white)](https://trpc.io/)
 [![Realm](https://img.shields.io/badge/-Realm-5935DE?style=for-the-badge&logo=Realm&logoColor=white)](https://realm.io/)
 [![Three.js](https://img.shields.io/badge/-Three.js-5935DE?style=for-the-badge&logo=Three.js&logoColor=white)](https://threejs.org/)
+[![Solidity](https://img.shields.io/badge/-Solidity-5935DE?style=for-the-badge&logo=Solidity&logoColor=white)](https://soliditylang.org/)
 [![C++](https://img.shields.io/badge/-C%2B%2B-5935DE?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Linux](https://img.shields.io/badge/-Linux-5935DE?style=for-the-badge&logo=Linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
