@@ -24,5 +24,8 @@
 
 #### I'm curious about:
 
-[![C++](https://img.shields.io/badge/-C%2B%2B-5935DE?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![tRPC](https://img.shields.io/badge/-tRPC-5935DE?style=for-the-badge&logo=tRPC&logoColor=white)](https://trpc.io/)
+[![Realm](https://img.shields.io/badge/-Realm-5935DE?style=for-the-badge&logo=Realm&logoColor=white)](https://realm.io/)
 [![Three.js](https://img.shields.io/badge/-Three.js-5935DE?style=for-the-badge&logo=Three.js&logoColor=white)](https://threejs.org/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-5935DE?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Linux](https://img.shields.io/badge/-Linux-5935DE?style=for-the-badge&logo=Linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
