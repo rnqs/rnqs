@@ -19,8 +19,8 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-793EE9?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-793EE9?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-793EE9?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-9946F4?style=for-the-badge&logo=TailwindCSS&logoColor=white)](https://tailwindcss.com/)
-[![Web3](https://img.shields.io/badge/-Web3-9946F4?style=for-the-badge&logo=Ethereum&logoColor=white)](https://web3js.readthedocs.io/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-793EE9?style=for-the-badge&logo=TailwindCSS&logoColor=white)](https://tailwindcss.com/)
+[![Web3](https://img.shields.io/badge/-Web3-793EE9?style=for-the-badge&logo=Ethereum&logoColor=white)](https://web3js.readthedocs.io/)
 
 #### I'm curious about:
 
